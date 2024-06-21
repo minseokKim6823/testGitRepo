@@ -2,5 +2,5 @@ test : 깃허브 배우기 좋은 날씨군!
 내가 올린 A 코드
 
 
-test abc
+test workspace
 
